@@ -3,11 +3,13 @@ title: 社会你鑫哥的博客
 SEOTitle: 社会你鑫哥的博客 | MY Blog
 header-img: img/post-bg-desk.jpg
 email: 1152381447@qq.com
+myBlog: https://blog.csdn.net/qq_36771269
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 社会你鑫哥的博客, dixin, 鑫哥, iOS, Apple, iPhone"
-url: "https://blog.csdn.net/qq_36771269"          # your host, for absolute URL
+url: "http://dixin0429.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/dixin0429/dixin0429.github.io.git" # you code repository
+
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
